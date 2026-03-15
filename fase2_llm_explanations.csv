@@ -1,0 +1,645 @@
+id,pred,proba_maligno,prompt,llm_response
+177,1,0.9843934353436438,"Você é um assistente clínico para profissionais especializados em saúde da mulher.
+Seu objetivo é explicar um resultado de triagem para câncer de mama de forma técnica e sensível.
+
+Regras obrigatórias:
+- NÃO forneça diagnóstico definitivo (apenas interpretação de triagem).
+- NÃO assuma identidade da paciente e NÃO use dados pessoais.
+- Use linguagem respeitosa e sensível ao contexto feminino.
+- Gere orientações práticas de próximos passos para o profissional (ex.: exames confirmatórios, encaminhamento).
+- Seja conciso (máx. 12 linhas).
+
+Dados do caso (anônimos):
+- Predição do modelo: maligno.
+- Probabilidade estimada de malignidade: 0.984
+
+Responda em português e use bullets quando útil.
+","O resultado da triagem para câncer de mama indica uma alta probabilidade de malignidade, com uma estimativa de 98,4%. É importante ressaltar que este resultado não é um diagnóstico definitivo, mas sim uma indicação de que mais investigação é necessária.
+
+**Orientações para próximos passos:**
+- **Encaminhamento:** Recomendar que a paciente seja encaminhada a um especialista em mastologia.
+- **Exames confirmatórios:** Solicitar exames adicionais, como mamografia diagnóstica e/ou biópsia, para uma avaliação mais precisa.
+- **Apoio emocional:** Considerar oferecer suporte psicológico, pois a ansiedade pode ser elevada em situações como esta.
+- **Orientação sobre autocuidado:** Incentivar a paciente a manter hábitos saudáveis e a se informar sobre o processo.
+
+Essas ações são fundamentais para garantir um acompanhamento adequado e sensível à situação da paciente."
+455,0,0.47998678281689644,"Você é um assistente clínico para profissionais especializados em saúde da mulher.
+Seu objetivo é explicar um resultado de triagem para câncer de mama de forma técnica e sensível.
+
+Regras obrigatórias:
+- NÃO forneça diagnóstico definitivo (apenas interpretação de triagem).
+- NÃO assuma identidade da paciente e NÃO use dados pessoais.
+- Use linguagem respeitosa e sensível ao contexto feminino.
+- Gere orientações práticas de próximos passos para o profissional (ex.: exames confirmatórios, encaminhamento).
+- Seja conciso (máx. 12 linhas).
+
+Dados do caso (anônimos):
+- Predição do modelo: benigno.
+- Probabilidade estimada de malignidade: 0.480
+
+Responda em português e use bullets quando útil.
+","O resultado da triagem para câncer de mama indica que a predição do modelo sugere uma lesão benigna, com uma probabilidade estimada de malignidade de 0,480. Isso significa que, embora a chance de a lesão ser cancerígena seja inferior a 50%, ainda existe uma incerteza que deve ser considerada.
+
+Orientações para os próximos passos:
+- **Discussão com a paciente**: Explique o resultado de forma clara e sensível, enfatizando a natureza benigna sugerida.
+- **Exames complementares**: Considere solicitar uma mamografia adicional ou ultrassonografia para melhor avaliação da lesão.
+- **Encaminhamento**: Se necessário, encaminhe a paciente para um especialista em mastologia para uma avaliação mais aprofundada.
+- **Acompanhamento**: Reforce a importância de monitoramento regular e autoexames, conforme as diretrizes de saúde.
+
+Essas ações ajudarão a garantir que a paciente receba o cuidado adequado e a tranquilidade necessária."
+505,0,7.199724479626516e-05,"Você é um assistente clínico para profissionais especializados em saúde da mulher.
+Seu objetivo é explicar um resultado de triagem para câncer de mama de forma técnica e sensível.
+
+Regras obrigatórias:
+- NÃO forneça diagnóstico definitivo (apenas interpretação de triagem).
+- NÃO assuma identidade da paciente e NÃO use dados pessoais.
+- Use linguagem respeitosa e sensível ao contexto feminino.
+- Gere orientações práticas de próximos passos para o profissional (ex.: exames confirmatórios, encaminhamento).
+- Seja conciso (máx. 12 linhas).
+
+Dados do caso (anônimos):
+- Predição do modelo: benigno.
+- Probabilidade estimada de malignidade: 0.000
+
+Responda em português e use bullets quando útil.
+","Prezada profissional,
+
+A triagem para câncer de mama apresentou um resultado que indica uma predição de lesão benigna, com uma probabilidade estimada de malignidade de 0,000. Isso sugere que, com base nos dados analisados, não há indícios de câncer neste momento.
+
+Orientações práticas para os próximos passos:
+
+- **Revisão do resultado**: Discuta com a paciente a interpretação do resultado e reforce a importância do acompanhamento regular.
+- **Exames complementares**: Considere a realização de exames adicionais, como ultrassonografia ou mamografia de controle, se houver histórico familiar ou outros fatores de risco.
+- **Consulta de seguimento**: Agende uma consulta de retorno para monitorar a saúde mamária da paciente e discutir quaisquer preocupações futuras.
+
+É fundamental manter um diálogo aberto e acolhedor, garantindo que a paciente se sinta segura e informada sobre sua saúde."
+5,1,0.8249274752101119,"Você é um assistente clínico para profissionais especializados em saúde da mulher.
+Seu objetivo é explicar um resultado de triagem para câncer de mama de forma técnica e sensível.
+
+Regras obrigatórias:
+- NÃO forneça diagnóstico definitivo (apenas interpretação de triagem).
+- NÃO assuma identidade da paciente e NÃO use dados pessoais.
+- Use linguagem respeitosa e sensível ao contexto feminino.
+- Gere orientações práticas de próximos passos para o profissional (ex.: exames confirmatórios, encaminhamento).
+- Seja conciso (máx. 12 linhas).
+
+Dados do caso (anônimos):
+- Predição do modelo: maligno.
+- Probabilidade estimada de malignidade: 0.825
+
+Responda em português e use bullets quando útil.
+","Prezada profissional de saúde,
+
+O resultado da triagem para câncer de mama indica uma predição de malignidade, com uma probabilidade estimada de 82,5%. É importante ressaltar que este resultado não é um diagnóstico definitivo, mas sim uma indicação de que pode haver a necessidade de investigação adicional.
+
+Orientações práticas para os próximos passos:
+
+- **Encaminhamento para exames confirmatórios**: Recomenda-se a realização de uma biópsia para avaliação histopatológica.
+- **Exames de imagem adicionais**: Considere solicitar uma mamografia complementar ou ultrassonografia, conforme a situação clínica.
+- **Apoio emocional**: Ofereça suporte psicológico, se necessário, para ajudar a paciente a lidar com a ansiedade gerada por esse resultado.
+- **Discussão em equipe**: Considere discutir o caso em uma reunião multidisciplinar para abordar todas as opções de manejo.
+
+É fundamental manter uma comunicação clara e empática com a paciente durante todo o processo."
+479,1,0.9429596721651264,"Você é um assistente clínico para profissionais especializados em saúde da mulher.
+Seu objetivo é explicar um resultado de triagem para câncer de mama de forma técnica e sensível.
+
+Regras obrigatórias:
+- NÃO forneça diagnóstico definitivo (apenas interpretação de triagem).
+- NÃO assuma identidade da paciente e NÃO use dados pessoais.
+- Use linguagem respeitosa e sensível ao contexto feminino.
+- Gere orientações práticas de próximos passos para o profissional (ex.: exames confirmatórios, encaminhamento).
+- Seja conciso (máx. 12 linhas).
+
+Dados do caso (anônimos):
+- Predição do modelo: maligno.
+- Probabilidade estimada de malignidade: 0.943
+
+Responda em português e use bullets quando útil.
+","O resultado da triagem para câncer de mama indica uma predição de malignidade, com uma probabilidade estimada de 94,3%. É importante ressaltar que essa informação não constitui um diagnóstico definitivo, mas sugere a necessidade de uma investigação mais aprofundada.
+
+Orientações práticas para os próximos passos:
+
+- **Encaminhamento para exames confirmatórios**: Recomenda-se a realização de uma biópsia para avaliação histopatológica.
+- **Exames de imagem adicionais**: Considere solicitar uma mamografia complementar ou uma ultrassonografia, conforme a avaliação clínica.
+- **Consulta com especialista**: Encaminhe a paciente para um mastologista ou oncologista para discussão dos resultados e opções de manejo.
+- **Apoio emocional**: Ofereça informações sobre grupos de apoio e recursos disponíveis para a paciente, considerando o impacto emocional deste resultado.
+
+É fundamental manter uma comunicação clara e empática durante todo o processo."
+7,1,0.947650600489014,"Você é um assistente clínico para profissionais especializados em saúde da mulher.
+Seu objetivo é explicar um resultado de triagem para câncer de mama de forma técnica e sensível.
+
+Regras obrigatórias:
+- NÃO forneça diagnóstico definitivo (apenas interpretação de triagem).
+- NÃO assuma identidade da paciente e NÃO use dados pessoais.
+- Use linguagem respeitosa e sensível ao contexto feminino.
+- Gere orientações práticas de próximos passos para o profissional (ex.: exames confirmatórios, encaminhamento).
+- Seja conciso (máx. 12 linhas).
+
+Dados do caso (anônimos):
+- Predição do modelo: maligno.
+- Probabilidade estimada de malignidade: 0.948
+
+Responda em português e use bullets quando útil.
+","Prezada profissional,
+
+A triagem para câncer de mama apresentou um resultado que indica uma alta probabilidade de malignidade, com uma predição de 94,8%. É importante ressaltar que este resultado não é um diagnóstico definitivo, mas sim uma indicação de que pode haver a necessidade de investigação adicional.
+
+Orientações práticas para os próximos passos:
+
+- **Exames confirmatórios**: Recomendar uma biópsia para análise histopatológica, que é o padrão-ouro para confirmação do diagnóstico.
+- **Exames de imagem**: Considerar a realização de uma ultrassonografia mamária ou ressonância magnética, se indicado, para melhor avaliação da lesão.
+- **Encaminhamento**: Se possível, encaminhar a paciente para um mastologista ou oncologista especializado em saúde da mama.
+- **Apoio emocional**: Oferecer suporte psicológico, pois a ansiedade pode ser elevada em situações como esta.
+
+É fundamental manter uma comunicação clara e empática com a paciente durante todo o processo."
+294,0,0.0002088076797811831,"Você é um assistente clínico para profissionais especializados em saúde da mulher.
+Seu objetivo é explicar um resultado de triagem para câncer de mama de forma técnica e sensível.
+
+Regras obrigatórias:
+- NÃO forneça diagnóstico definitivo (apenas interpretação de triagem).
+- NÃO assuma identidade da paciente e NÃO use dados pessoais.
+- Use linguagem respeitosa e sensível ao contexto feminino.
+- Gere orientações práticas de próximos passos para o profissional (ex.: exames confirmatórios, encaminhamento).
+- Seja conciso (máx. 12 linhas).
+
+Dados do caso (anônimos):
+- Predição do modelo: benigno.
+- Probabilidade estimada de malignidade: 0.000
+
+Responda em português e use bullets quando útil.
+","O resultado da triagem para câncer de mama indica que a predição do modelo é benigno, com uma probabilidade estimada de malignidade de 0,000. Isso sugere que, com base nos dados analisados, não há indícios de câncer no momento.
+
+Orientações práticas para os próximos passos:
+
+- **Revisão dos resultados**: Discuta os achados com a paciente, enfatizando a natureza benigno da predição.
+- **Exames complementares**: Considere a realização de exames adicionais, como ultrassonografia ou mamografia, se houver sintomas ou histórico familiar relevante.
+- **Monitoramento**: Reforce a importância de manter o acompanhamento regular, conforme as diretrizes de rastreamento para a saúde da mulher.
+- **Educação**: Informe sobre a autoexame das mamas e a importância de relatar qualquer alteração.
+
+Mantenha um espaço aberto para dúvidas e preocupações da paciente, promovendo um ambiente de acolhimento e suporte."
+321,1,0.9996170675327046,"Você é um assistente clínico para profissionais especializados em saúde da mulher.
+Seu objetivo é explicar um resultado de triagem para câncer de mama de forma técnica e sensível.
+
+Regras obrigatórias:
+- NÃO forneça diagnóstico definitivo (apenas interpretação de triagem).
+- NÃO assuma identidade da paciente e NÃO use dados pessoais.
+- Use linguagem respeitosa e sensível ao contexto feminino.
+- Gere orientações práticas de próximos passos para o profissional (ex.: exames confirmatórios, encaminhamento).
+- Seja conciso (máx. 12 linhas).
+
+Dados do caso (anônimos):
+- Predição do modelo: maligno.
+- Probabilidade estimada de malignidade: 1.000
+
+Responda em português e use bullets quando útil.
+","O resultado da triagem para câncer de mama indica uma predição de malignidade, com uma probabilidade estimada de 100%. É importante ressaltar que este resultado não é um diagnóstico definitivo, mas sim uma indicação de que pode haver a presença de câncer.
+
+Orientações práticas para os próximos passos:
+
+- **Encaminhamento para exames confirmatórios**: Recomenda-se a realização de uma biópsia para avaliação histopatológica.
+- **Exames de imagem adicionais**: Considerar a realização de uma mamografia diagnóstica ou ultrassonografia, se necessário.
+- **Consulta com especialista**: Encaminhar a paciente para um mastologista ou oncologista para discussão dos resultados e opções de tratamento.
+- **Apoio emocional**: Oferecer suporte psicológico, se a paciente demonstrar necessidade, pois esse é um momento delicado.
+
+É fundamental manter a comunicação clara e empática com a paciente durante todo o processo."
+196,1,0.9973387194319251,"Você é um assistente clínico para profissionais especializados em saúde da mulher.
+Seu objetivo é explicar um resultado de triagem para câncer de mama de forma técnica e sensível.
+
+Regras obrigatórias:
+- NÃO forneça diagnóstico definitivo (apenas interpretação de triagem).
+- NÃO assuma identidade da paciente e NÃO use dados pessoais.
+- Use linguagem respeitosa e sensível ao contexto feminino.
+- Gere orientações práticas de próximos passos para o profissional (ex.: exames confirmatórios, encaminhamento).
+- Seja conciso (máx. 12 linhas).
+
+Dados do caso (anônimos):
+- Predição do modelo: maligno.
+- Probabilidade estimada de malignidade: 0.997
+
+Responda em português e use bullets quando útil.
+","Prezada profissional de saúde,
+
+A triagem para câncer de mama apresentou um resultado que indica uma alta probabilidade de malignidade, com uma estimativa de 99,7%. É importante ressaltar que este resultado não é um diagnóstico definitivo, mas sim uma indicação de que são necessários passos adicionais para investigação.
+
+Orientações práticas para os próximos passos:
+
+- **Encaminhamento para exames confirmatórios**: Recomenda-se a realização de uma biópsia para avaliação histopatológica.
+- **Exames de imagem adicionais**: Considerar a realização de uma mamografia diagnóstica ou ultrassonografia, conforme necessário.
+- **Consulta com especialista**: Encaminhar a paciente para um mastologista para discussão dos resultados e opções de manejo.
+- **Apoio emocional**: Oferecer suporte psicológico, se necessário, para ajudar a paciente a lidar com a ansiedade relacionada ao resultado.
+
+Agradeço pela atenção e cuidado com a saúde da mulher."
+60,0,0.00014727802889137538,"Você é um assistente clínico para profissionais especializados em saúde da mulher.
+Seu objetivo é explicar um resultado de triagem para câncer de mama de forma técnica e sensível.
+
+Regras obrigatórias:
+- NÃO forneça diagnóstico definitivo (apenas interpretação de triagem).
+- NÃO assuma identidade da paciente e NÃO use dados pessoais.
+- Use linguagem respeitosa e sensível ao contexto feminino.
+- Gere orientações práticas de próximos passos para o profissional (ex.: exames confirmatórios, encaminhamento).
+- Seja conciso (máx. 12 linhas).
+
+Dados do caso (anônimos):
+- Predição do modelo: benigno.
+- Probabilidade estimada de malignidade: 0.000
+
+Responda em português e use bullets quando útil.
+","Prezada profissional de saúde,
+
+Com base nos resultados da triagem para câncer de mama, a predição do modelo indica uma lesão considerada **benigna**, com uma probabilidade estimada de malignidade de **0.000**. Isso sugere que, de acordo com os dados analisados, não há indícios de câncer.
+
+Orientações práticas para os próximos passos:
+
+- **Reforçar a tranquilidade**: Explique à paciente que os resultados são favoráveis e que a probabilidade de malignidade é extremamente baixa.
+- **Revisão clínica**: Considere uma avaliação clínica regular, conforme as diretrizes de rastreamento.
+- **Exames complementares**: Se houver sintomas persistentes ou alterações, pode ser indicado realizar exames adicionais, como ultrassonografia ou mamografia de controle.
+- **Acompanhamento**: Programe um retorno para reavaliação e discuta a importância do autoexame e da continuidade do acompanhamento.
+
+Atenciosamente,  
+[Seu Nome]  
+Assistente Clínico"
+130,0,0.0008855145235329185,"Você é um assistente clínico para profissionais especializados em saúde da mulher.
+Seu objetivo é explicar um resultado de triagem para câncer de mama de forma técnica e sensível.
+
+Regras obrigatórias:
+- NÃO forneça diagnóstico definitivo (apenas interpretação de triagem).
+- NÃO assuma identidade da paciente e NÃO use dados pessoais.
+- Use linguagem respeitosa e sensível ao contexto feminino.
+- Gere orientações práticas de próximos passos para o profissional (ex.: exames confirmatórios, encaminhamento).
+- Seja conciso (máx. 12 linhas).
+
+Dados do caso (anônimos):
+- Predição do modelo: benigno.
+- Probabilidade estimada de malignidade: 0.001
+
+Responda em português e use bullets quando útil.
+","O resultado da triagem para câncer de mama indica que a predição do modelo é benigno, com uma probabilidade estimada de malignidade de apenas 0,001. Isso sugere que, com base nos dados analisados, a chance de haver um câncer é extremamente baixa.
+
+Orientações práticas para os próximos passos:
+
+- **Revisão do resultado**: Discuta os resultados com a paciente, enfatizando a baixa probabilidade de malignidade.
+- **Exames complementares**: Considere a realização de exames adicionais, como ultrassonografia ou mamografia, se houver histórico familiar ou sintomas relevantes.
+- **Acompanhamento**: Recomende um acompanhamento regular, conforme as diretrizes de rastreamento, para monitorar a saúde mamária.
+- **Educação**: Informe a paciente sobre a importância da autoavaliação e da mamografia regular, conforme indicado para sua faixa etária e histórico.
+
+Essas orientações visam garantir que a paciente se sinta segura e bem informada sobre sua saúde."
+74,0,0.0018463967096645966,"Você é um assistente clínico para profissionais especializados em saúde da mulher.
+Seu objetivo é explicar um resultado de triagem para câncer de mama de forma técnica e sensível.
+
+Regras obrigatórias:
+- NÃO forneça diagnóstico definitivo (apenas interpretação de triagem).
+- NÃO assuma identidade da paciente e NÃO use dados pessoais.
+- Use linguagem respeitosa e sensível ao contexto feminino.
+- Gere orientações práticas de próximos passos para o profissional (ex.: exames confirmatórios, encaminhamento).
+- Seja conciso (máx. 12 linhas).
+
+Dados do caso (anônimos):
+- Predição do modelo: benigno.
+- Probabilidade estimada de malignidade: 0.002
+
+Responda em português e use bullets quando útil.
+","O resultado da triagem para câncer de mama indica uma predição de natureza benigna, com uma probabilidade estimada de malignidade de apenas 0,2%. Isso sugere que, com base nos dados analisados, a chance de haver um câncer é extremamente baixa.
+
+Orientações práticas para os próximos passos:
+
+- **Revisão do resultado**: Discuta o resultado com a paciente, enfatizando a baixa probabilidade de malignidade.
+- **Exames complementares**: Considere a realização de exames adicionais, como ultrassonografia ou mamografia, se houver histórico familiar ou outros fatores de risco.
+- **Acompanhamento**: Recomende um acompanhamento regular, conforme as diretrizes de rastreamento para a faixa etária da paciente.
+- **Educação**: Informe sobre a importância da autoavaliação das mamas e da continuidade do monitoramento da saúde mamária.
+
+Essas orientações visam garantir que a paciente se sinta apoiada e bem informada sobre sua saúde."
+346,0,0.001682561994555554,"Você é um assistente clínico para profissionais especializados em saúde da mulher.
+Seu objetivo é explicar um resultado de triagem para câncer de mama de forma técnica e sensível.
+
+Regras obrigatórias:
+- NÃO forneça diagnóstico definitivo (apenas interpretação de triagem).
+- NÃO assuma identidade da paciente e NÃO use dados pessoais.
+- Use linguagem respeitosa e sensível ao contexto feminino.
+- Gere orientações práticas de próximos passos para o profissional (ex.: exames confirmatórios, encaminhamento).
+- Seja conciso (máx. 12 linhas).
+
+Dados do caso (anônimos):
+- Predição do modelo: benigno.
+- Probabilidade estimada de malignidade: 0.002
+
+Responda em português e use bullets quando útil.
+","O resultado da triagem para câncer de mama indica que a predição do modelo sugere uma lesão benigna, com uma probabilidade estimada de malignidade de apenas 0,2%. Isso é um sinal positivo, mas é importante lembrar que a triagem não substitui uma avaliação clínica completa.
+
+Orientações práticas para os próximos passos:
+
+- **Discussão com a paciente**: Explique o resultado de forma clara e sensível, enfatizando a baixa probabilidade de malignidade.
+- **Exames confirmatórios**: Considere a realização de exames adicionais, como ultrassonografia mamária ou biópsia, se houver histórico familiar ou outros fatores de risco.
+- **Acompanhamento**: Programe um retorno para monitorar a saúde mamária da paciente, conforme as diretrizes clínicas.
+- **Educação**: Incentive a paciente a manter a autoavaliação das mamas e a realizar mamografias regulares, conforme recomendado.
+
+Essas ações ajudarão a garantir um cuidado contínuo e adequado."
+205,1,0.5050662948946087,"Você é um assistente clínico para profissionais especializados em saúde da mulher.
+Seu objetivo é explicar um resultado de triagem para câncer de mama de forma técnica e sensível.
+
+Regras obrigatórias:
+- NÃO forneça diagnóstico definitivo (apenas interpretação de triagem).
+- NÃO assuma identidade da paciente e NÃO use dados pessoais.
+- Use linguagem respeitosa e sensível ao contexto feminino.
+- Gere orientações práticas de próximos passos para o profissional (ex.: exames confirmatórios, encaminhamento).
+- Seja conciso (máx. 12 linhas).
+
+Dados do caso (anônimos):
+- Predição do modelo: maligno.
+- Probabilidade estimada de malignidade: 0.505
+
+Responda em português e use bullets quando útil.
+","O resultado da triagem para câncer de mama indica uma predição de malignidade, com uma probabilidade estimada de 50,5%. É importante ressaltar que este resultado não é um diagnóstico definitivo, mas sim uma indicação de que pode haver necessidade de investigação adicional.
+
+Orientações práticas para os próximos passos:
+
+- **Encaminhamento**: Considere encaminhar a paciente para um especialista em mastologia.
+- **Exames confirmatórios**: Solicite exames adicionais, como mamografia diagnóstica ou ultrassonografia, para uma avaliação mais detalhada.
+- **Discussão**: Converse com a paciente sobre os resultados, explicando a importância da investigação adicional e abordando suas preocupações.
+- **Apoio emocional**: Ofereça suporte psicológico, se necessário, para ajudar a paciente a lidar com a ansiedade que pode surgir nesse momento.
+
+Lembre-se de que a comunicação clara e empática é fundamental para o cuidado da paciente."
+208,0,0.17949733160392878,"Você é um assistente clínico para profissionais especializados em saúde da mulher.
+Seu objetivo é explicar um resultado de triagem para câncer de mama de forma técnica e sensível.
+
+Regras obrigatórias:
+- NÃO forneça diagnóstico definitivo (apenas interpretação de triagem).
+- NÃO assuma identidade da paciente e NÃO use dados pessoais.
+- Use linguagem respeitosa e sensível ao contexto feminino.
+- Gere orientações práticas de próximos passos para o profissional (ex.: exames confirmatórios, encaminhamento).
+- Seja conciso (máx. 12 linhas).
+
+Dados do caso (anônimos):
+- Predição do modelo: benigno.
+- Probabilidade estimada de malignidade: 0.179
+
+Responda em português e use bullets quando útil.
+","O resultado da triagem para câncer de mama indica que a predição do modelo sugere uma lesão benigna, com uma probabilidade estimada de malignidade de 17,9%. É importante considerar que essa informação é uma avaliação inicial e não um diagnóstico definitivo.
+
+Orientações práticas para os próximos passos:
+
+- **Discussão com a paciente**: Explique o resultado de forma clara e sensível, enfatizando que a probabilidade de malignidade é baixa.
+- **Exames complementares**: Considere solicitar exames adicionais, como mamografia ou ultrassonografia, para uma avaliação mais detalhada, se necessário.
+- **Encaminhamento**: Se houver histórico familiar ou outros fatores de risco, encaminhe a paciente para um especialista em mastologia para uma avaliação mais aprofundada.
+- **Acompanhamento**: Reforce a importância do monitoramento regular e da autoexame das mamas, além de consultas periódicas.
+
+Essas etapas ajudarão a garantir que a paciente receba o cuidado adequado e a tranquilidade necessária."
+120,0,0.00039489929483877605,"Você é um assistente clínico para profissionais especializados em saúde da mulher.
+Seu objetivo é explicar um resultado de triagem para câncer de mama de forma técnica e sensível.
+
+Regras obrigatórias:
+- NÃO forneça diagnóstico definitivo (apenas interpretação de triagem).
+- NÃO assuma identidade da paciente e NÃO use dados pessoais.
+- Use linguagem respeitosa e sensível ao contexto feminino.
+- Gere orientações práticas de próximos passos para o profissional (ex.: exames confirmatórios, encaminhamento).
+- Seja conciso (máx. 12 linhas).
+
+Dados do caso (anônimos):
+- Predição do modelo: benigno.
+- Probabilidade estimada de malignidade: 0.000
+
+Responda em português e use bullets quando útil.
+","Prezada profissional,
+
+A triagem para câncer de mama apresentou um resultado que indica uma predição de lesão benigna, com uma probabilidade estimada de malignidade de 0.000. Isso sugere que, com base nos dados analisados, não há evidências que indiquem a presença de câncer neste momento.
+
+Orientações práticas para os próximos passos:
+
+- **Revisão do resultado**: Discuta com a paciente os resultados de forma clara e acolhedora.
+- **Exames complementares**: Considere a realização de exames adicionais, como ultrassonografia ou mamografia, se houver histórico familiar ou outros fatores de risco.
+- **Acompanhamento**: Programe consultas regulares para monitoramento e reavaliação, conforme necessário.
+- **Educação**: Informe sobre a importância da autoexame e da mamografia regular, conforme as diretrizes de saúde.
+
+É fundamental manter um diálogo aberto e empático com a paciente durante todo o processo."
+4,1,0.9997602535514712,"Você é um assistente clínico para profissionais especializados em saúde da mulher.
+Seu objetivo é explicar um resultado de triagem para câncer de mama de forma técnica e sensível.
+
+Regras obrigatórias:
+- NÃO forneça diagnóstico definitivo (apenas interpretação de triagem).
+- NÃO assuma identidade da paciente e NÃO use dados pessoais.
+- Use linguagem respeitosa e sensível ao contexto feminino.
+- Gere orientações práticas de próximos passos para o profissional (ex.: exames confirmatórios, encaminhamento).
+- Seja conciso (máx. 12 linhas).
+
+Dados do caso (anônimos):
+- Predição do modelo: maligno.
+- Probabilidade estimada de malignidade: 1.000
+
+Responda em português e use bullets quando útil.
+","O resultado da triagem indica uma alta probabilidade de malignidade, com uma estimativa de 100% para o risco de câncer de mama. É importante ressaltar que essa triagem não fornece um diagnóstico definitivo, mas sugere a necessidade de investigação adicional.
+
+Orientações práticas para os próximos passos:
+
+- **Encaminhamento para especialista**: Recomende que a paciente consulte um mastologista para avaliação detalhada.
+- **Exames confirmatórios**: Solicite exames complementares, como mamografia, ultrassonografia e, se necessário, biópsia.
+- **Apoio emocional**: Considere oferecer suporte psicológico, pois esse resultado pode gerar ansiedade.
+- **Informação clara**: Explique à paciente a importância dos próximos passos e a natureza do resultado, garantindo que ela se sinta acolhida e informada.
+
+Essas ações são fundamentais para um manejo adequado e sensível da situação."
+548,0,0.00010251392265781994,"Você é um assistente clínico para profissionais especializados em saúde da mulher.
+Seu objetivo é explicar um resultado de triagem para câncer de mama de forma técnica e sensível.
+
+Regras obrigatórias:
+- NÃO forneça diagnóstico definitivo (apenas interpretação de triagem).
+- NÃO assuma identidade da paciente e NÃO use dados pessoais.
+- Use linguagem respeitosa e sensível ao contexto feminino.
+- Gere orientações práticas de próximos passos para o profissional (ex.: exames confirmatórios, encaminhamento).
+- Seja conciso (máx. 12 linhas).
+
+Dados do caso (anônimos):
+- Predição do modelo: benigno.
+- Probabilidade estimada de malignidade: 0.000
+
+Responda em português e use bullets quando útil.
+","O resultado da triagem para câncer de mama indica que a predição do modelo é benigno, com uma probabilidade estimada de malignidade de 0.000. Isso sugere que, com base nos dados analisados, não há indícios de câncer.
+
+Orientações práticas para os próximos passos:
+
+- **Revisão dos resultados**: Discuta os achados com a paciente, enfatizando a natureza benigna do resultado.
+- **Exames complementares**: Considere a realização de exames adicionais, como ultrassonografia ou mamografia, se houver sintomas ou histórico familiar relevante.
+- **Acompanhamento**: Recomende um acompanhamento regular, conforme as diretrizes de rastreamento para a faixa etária da paciente.
+- **Educação**: Informe sobre a importância da autoavaliação das mamas e da continuidade do monitoramento da saúde mamária.
+
+É fundamental manter um diálogo aberto e acolhedor, garantindo que a paciente se sinta segura e bem informada sobre sua saúde."
+433,1,0.9999830524819996,"Você é um assistente clínico para profissionais especializados em saúde da mulher.
+Seu objetivo é explicar um resultado de triagem para câncer de mama de forma técnica e sensível.
+
+Regras obrigatórias:
+- NÃO forneça diagnóstico definitivo (apenas interpretação de triagem).
+- NÃO assuma identidade da paciente e NÃO use dados pessoais.
+- Use linguagem respeitosa e sensível ao contexto feminino.
+- Gere orientações práticas de próximos passos para o profissional (ex.: exames confirmatórios, encaminhamento).
+- Seja conciso (máx. 12 linhas).
+
+Dados do caso (anônimos):
+- Predição do modelo: maligno.
+- Probabilidade estimada de malignidade: 1.000
+
+Responda em português e use bullets quando útil.
+","Prezada profissional,
+
+O resultado da triagem para câncer de mama indica uma predição de malignidade com uma probabilidade estimada de 1.000. É importante ressaltar que essa informação é uma indicação de risco e não um diagnóstico definitivo.
+
+Orientações práticas para os próximos passos:
+
+- **Encaminhamento**: Recomende à paciente a realização de exames confirmatórios, como mamografia diagnóstica e/ou ultrassonografia, conforme a avaliação clínica.
+- **Avaliação clínica**: Considere uma consulta com um mastologista para uma avaliação mais aprofundada.
+- **Apoio emocional**: Esteja atenta ao suporte emocional da paciente, pois esse resultado pode gerar ansiedade. Ofereça recursos de apoio psicológico, se necessário.
+- **Monitoramento**: Mantenha um acompanhamento regular e discuta a importância da autoexame e das mamografias periódicas.
+
+Agradeço pela atenção e cuidado com a saúde da mulher."
+188,0,0.0021272753507453807,"Você é um assistente clínico para profissionais especializados em saúde da mulher.
+Seu objetivo é explicar um resultado de triagem para câncer de mama de forma técnica e sensível.
+
+Regras obrigatórias:
+- NÃO forneça diagnóstico definitivo (apenas interpretação de triagem).
+- NÃO assuma identidade da paciente e NÃO use dados pessoais.
+- Use linguagem respeitosa e sensível ao contexto feminino.
+- Gere orientações práticas de próximos passos para o profissional (ex.: exames confirmatórios, encaminhamento).
+- Seja conciso (máx. 12 linhas).
+
+Dados do caso (anônimos):
+- Predição do modelo: benigno.
+- Probabilidade estimada de malignidade: 0.002
+
+Responda em português e use bullets quando útil.
+","O resultado da triagem para câncer de mama indica uma predição de lesão benigna, com uma probabilidade estimada de malignidade de apenas 0,2%. Isso sugere que, com base nos dados analisados, a chance de a lesão ser cancerígena é extremamente baixa.
+
+Orientações práticas para os próximos passos:
+
+- **Revisão dos resultados**: Discuta os achados com a paciente, enfatizando a baixa probabilidade de malignidade.
+- **Exames complementares**: Considere a realização de uma ultrassonografia mamária ou mamografia adicional, se necessário, para melhor avaliação.
+- **Monitoramento**: Recomende acompanhamento regular, conforme as diretrizes locais, para garantir a saúde mamária contínua.
+- **Educação**: Informe sobre a importância da autoexame e das mamografias regulares, conforme a faixa etária e histórico familiar.
+
+É fundamental manter um diálogo aberto e acolhedor, garantindo que a paciente se sinta segura e bem informada sobre sua saúde."
+216,0,0.01706182074383541,"Você é um assistente clínico para profissionais especializados em saúde da mulher.
+Seu objetivo é explicar um resultado de triagem para câncer de mama de forma técnica e sensível.
+
+Regras obrigatórias:
+- NÃO forneça diagnóstico definitivo (apenas interpretação de triagem).
+- NÃO assuma identidade da paciente e NÃO use dados pessoais.
+- Use linguagem respeitosa e sensível ao contexto feminino.
+- Gere orientações práticas de próximos passos para o profissional (ex.: exames confirmatórios, encaminhamento).
+- Seja conciso (máx. 12 linhas).
+
+Dados do caso (anônimos):
+- Predição do modelo: benigno.
+- Probabilidade estimada de malignidade: 0.017
+
+Responda em português e use bullets quando útil.
+","O resultado da triagem para câncer de mama indica que a predição do modelo sugere uma lesão benigna, com uma probabilidade estimada de malignidade de apenas 1,7%. Isso é um sinal positivo, mas é importante lembrar que a triagem não substitui uma avaliação clínica completa.
+
+Orientações práticas para os próximos passos:
+
+- **Revisão clínica**: Avaliar a história clínica e realizar um exame físico detalhado.
+- **Exames complementares**: Considerar a realização de ultrassonografia mamária ou mamografia adicional, se necessário, para melhor caracterização da lesão.
+- **Acompanhamento**: Agendar um retorno para discutir os resultados e quaisquer preocupações que a paciente possa ter.
+- **Educação**: Informar a paciente sobre a importância do autoexame e das mamografias regulares, conforme as diretrizes de rastreamento.
+
+Essas etapas ajudarão a garantir um acompanhamento adequado e a tranquilizar a paciente."
+71,0,1.4448423412923215e-08,"Você é um assistente clínico para profissionais especializados em saúde da mulher.
+Seu objetivo é explicar um resultado de triagem para câncer de mama de forma técnica e sensível.
+
+Regras obrigatórias:
+- NÃO forneça diagnóstico definitivo (apenas interpretação de triagem).
+- NÃO assuma identidade da paciente e NÃO use dados pessoais.
+- Use linguagem respeitosa e sensível ao contexto feminino.
+- Gere orientações práticas de próximos passos para o profissional (ex.: exames confirmatórios, encaminhamento).
+- Seja conciso (máx. 12 linhas).
+
+Dados do caso (anônimos):
+- Predição do modelo: benigno.
+- Probabilidade estimada de malignidade: 0.000
+
+Responda em português e use bullets quando útil.
+","Prezada profissional,
+
+A triagem realizada apresenta os seguintes resultados:
+
+- **Predição do modelo**: Benigno.
+- **Probabilidade estimada de malignidade**: 0.000.
+
+Esses resultados sugerem que, com base nos dados analisados, a probabilidade de um diagnóstico maligno é extremamente baixa. No entanto, é importante lembrar que a triagem não substitui uma avaliação clínica completa.
+
+**Próximos passos recomendados**:
+- Realizar uma consulta clínica para discutir os resultados com a paciente.
+- Considerar a realização de exames complementares, como mamografia ou ultrassonografia, se necessário, para uma avaliação mais detalhada.
+- Manter um acompanhamento regular, conforme as diretrizes de rastreamento para a saúde da mulher.
+
+Agradeço pela atenção e estou à disposição para mais esclarecimentos."
+280,1,0.9999998950493328,"Você é um assistente clínico para profissionais especializados em saúde da mulher.
+Seu objetivo é explicar um resultado de triagem para câncer de mama de forma técnica e sensível.
+
+Regras obrigatórias:
+- NÃO forneça diagnóstico definitivo (apenas interpretação de triagem).
+- NÃO assuma identidade da paciente e NÃO use dados pessoais.
+- Use linguagem respeitosa e sensível ao contexto feminino.
+- Gere orientações práticas de próximos passos para o profissional (ex.: exames confirmatórios, encaminhamento).
+- Seja conciso (máx. 12 linhas).
+
+Dados do caso (anônimos):
+- Predição do modelo: maligno.
+- Probabilidade estimada de malignidade: 1.000
+
+Responda em português e use bullets quando útil.
+","O resultado da triagem para câncer de mama indica uma predição de malignidade, com uma probabilidade estimada de 100%. É importante ressaltar que este resultado não é um diagnóstico definitivo, mas sim uma indicação de que pode haver a necessidade de investigação adicional.
+
+Orientações práticas para os próximos passos:
+
+- **Encaminhamento para exames confirmatórios**: Recomenda-se a realização de uma biópsia para avaliação histopatológica.
+- **Exames de imagem adicionais**: Considerar a realização de uma mamografia diagnóstica ou ultrassonografia, conforme a avaliação clínica.
+- **Consulta com especialista**: Encaminhar a paciente para um mastologista para discussão dos resultados e opções de manejo.
+- **Apoio emocional**: Oferecer suporte psicológico, se necessário, pois a ansiedade pode ser elevada em situações como esta.
+
+É fundamental manter uma comunicação clara e empática com a paciente durante todo o processo."
+511,0,0.0024407300971524227,"Você é um assistente clínico para profissionais especializados em saúde da mulher.
+Seu objetivo é explicar um resultado de triagem para câncer de mama de forma técnica e sensível.
+
+Regras obrigatórias:
+- NÃO forneça diagnóstico definitivo (apenas interpretação de triagem).
+- NÃO assuma identidade da paciente e NÃO use dados pessoais.
+- Use linguagem respeitosa e sensível ao contexto feminino.
+- Gere orientações práticas de próximos passos para o profissional (ex.: exames confirmatórios, encaminhamento).
+- Seja conciso (máx. 12 linhas).
+
+Dados do caso (anônimos):
+- Predição do modelo: benigno.
+- Probabilidade estimada de malignidade: 0.002
+
+Responda em português e use bullets quando útil.
+","Prezada profissional de saúde,
+
+Com base nos resultados da triagem para câncer de mama, a predição do modelo indica uma probabilidade estimada de malignidade de apenas 0,2%. Isso sugere que a lesão identificada é considerada benigno, o que é um resultado encorajador.
+
+Orientações práticas para os próximos passos:
+
+- **Revisão dos resultados**: Discuta os achados com a paciente, enfatizando a baixa probabilidade de malignidade.
+- **Exames complementares**: Considere a realização de exames adicionais, como ultrassonografia ou mamografia de seguimento, para monitorar a lesão.
+- **Acompanhamento**: Programe uma consulta de retorno para reavaliação, conforme necessário, e oriente a paciente sobre a importância do autoexame e das mamografias regulares.
+
+É fundamental manter um diálogo aberto e acolhedor, garantindo que a paciente se sinta segura e bem informada sobre sua saúde."
+198,1,0.9999185048080013,"Você é um assistente clínico para profissionais especializados em saúde da mulher.
+Seu objetivo é explicar um resultado de triagem para câncer de mama de forma técnica e sensível.
+
+Regras obrigatórias:
+- NÃO forneça diagnóstico definitivo (apenas interpretação de triagem).
+- NÃO assuma identidade da paciente e NÃO use dados pessoais.
+- Use linguagem respeitosa e sensível ao contexto feminino.
+- Gere orientações práticas de próximos passos para o profissional (ex.: exames confirmatórios, encaminhamento).
+- Seja conciso (máx. 12 linhas).
+
+Dados do caso (anônimos):
+- Predição do modelo: maligno.
+- Probabilidade estimada de malignidade: 1.000
+
+Responda em português e use bullets quando útil.
+","O resultado da triagem para câncer de mama indica uma predição de malignidade, com uma probabilidade estimada de 100%. É importante ressaltar que este resultado não é um diagnóstico definitivo, mas sim um indicativo que requer atenção.
+
+Orientações práticas para os próximos passos:
+
+- **Encaminhamento para exames confirmatórios**: Recomenda-se a realização de uma biópsia para avaliação histopatológica.
+- **Exames de imagem adicionais**: Considerar a realização de uma mamografia ou ultrassonografia, conforme a avaliação clínica.
+- **Consulta com especialista**: Encaminhar a paciente para um mastologista ou oncologista para discussão dos resultados e opções de manejo.
+- **Apoio emocional**: Oferecer suporte psicológico, se necessário, para ajudar a paciente a lidar com a ansiedade relacionada ao resultado.
+
+É fundamental manter uma comunicação clara e empática durante todo o processo."

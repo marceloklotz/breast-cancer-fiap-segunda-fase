@@ -1,0 +1,18 @@
+# Arquivos de variáveis de ambiente (contém chaves de API)
+.env
+
+# Pastas de ambiente virtual
+venv/
+env/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Checkpoints do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos de configuração do Sistema Operacional
+.DS_Store
+Thumbs.db
