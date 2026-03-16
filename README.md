@@ -31,6 +31,9 @@ https://github.com/marceloklotz/breast-cancer-fiap-segunda-fase/blob/main/FIAP_F
 - Dados gerados para fins didáticos:
 https://raw.githubusercontent.com/marceloklotz/breast-cancer-fiap-segunda-fase/refs/heads/main/dados_demograficos_aleatorios_idade_etnia.csv
 
+- Dados gerados pelo notebook contendo (prompts e respostas):
+https://raw.githubusercontent.com/marceloklotz/breast-cancer-fiap-segunda-fase/refs/heads/main/fase2_llm_explanations.csv
+
 ## 🛠️ Implementação Técnica
 
 ### 🧬 Algoritmos Genéticos (GA)
