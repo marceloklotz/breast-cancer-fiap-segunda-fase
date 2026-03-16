@@ -55,7 +55,7 @@ O relatório técnico descreve o desafio proposto e a forma de exploração de d
 
 O download do relatório pode ser feito diretamente pelo seguinte link: 
 
-- [https://github.com/marceloklotz/breast-cancer-fiap/blob/main/Tech%20Challenge%20-%20Fase%201.pdf](https://github.com/marceloklotz/breast-cancer-fiap/blob/main/Tech%20Challenge%20-%20Fase%201.pdf)
+- [[https://github.com/marceloklotz/breast-cancer-fiap/blob/main/Tech%20Challenge%20-%20Fase%201.pdf](https://github.com/marceloklotz/breast-cancer-fiap/blob/main/Tech%20Challenge%20-%20Fase%201.pdf)](https://github.com/marceloklotz/breast-cancer-fiap-segunda-fase/blob/main/Relat%C3%B3rio%20T%C3%A9cnico%20-%20Segunda%20Fase.pdf)
 
 ## 📽️ Vídeo explicativo
 
