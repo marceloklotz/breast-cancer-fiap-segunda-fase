@@ -54,8 +54,7 @@ Utilizamoo o GPT-4o mini, que é um modelo de inteligência artificial da OpenAI
 O relatório técnico descreve o desafio proposto e a forma de exploração de dados adotada pelos membros do grupo, explicando as estratégias de pré-processamento e limpeza dos dados, os modelos avaliados e utilizados, os resultados obtidos, a interpretação do dados, além da aplicabilidade prática e as lições aprendidas durante o desenvolvimento da atividade acadêmica.
 
 O download do relatório pode ser feito diretamente pelo seguinte link: 
-
-- [[https://github.com/marceloklotz/breast-cancer-fiap/blob/main/Tech%20Challenge%20-%20Fase%201.pdf](https://github.com/marceloklotz/breast-cancer-fiap/blob/main/Tech%20Challenge%20-%20Fase%201.pdf)](https://github.com/marceloklotz/breast-cancer-fiap-segunda-fase/blob/main/Relat%C3%B3rio%20T%C3%A9cnico%20-%20Segunda%20Fase.pdf)
+https://github.com/marceloklotz/breast-cancer-fiap/blob/main/Tech%20Challenge%20-%20Fase%201.pdf
 
 ## 📽️ Vídeo explicativo
 
