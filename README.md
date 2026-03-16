@@ -23,7 +23,13 @@ Os membros do grupo são compostos pelos seguintes servidores da Secretaria de S
 
 ## 🎲 Base de dados
 
-Utilizamos uma versão modificada do dataset Breast Cancer Wisconsin, que inclui atributos morfológicos de biópsias mamárias. Para fins didáticos, foram incorporados dados demográficos como idade e etnia.
+Utilizamos uma versão modificada do dataset Breast Cancer Wisconsin, que inclui atributos morfológicos de biópsias mamárias. Para **fins didáticos**, foram incorporados dados demográficos como idade e etnia.
+
+Base original:
+https://github.com/marceloklotz/breast-cancer-fiap-segunda-fase/blob/main/FIAP_Fase_2.ipynb
+
+Dados gerados para fins didáticos:
+https://raw.githubusercontent.com/marceloklotz/breast-cancer-fiap-segunda-fase/refs/heads/main/dados_demograficos_aleatorios_idade_etnia.csv
 
 ## 🛠️ Implementação Técnica
 
