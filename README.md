@@ -3,7 +3,7 @@
 Este repositório contém a solução para o Tech Challenge da Fase 2 da Pós-Tech em IA para Devs (FIAP - 8IADT). O projeto foca na evolução de modelos preditivos de diagnóstico médico utilizando Algoritmos Genéticos e Grandes Modelos de Linguagem (LLMs), conforme instruções contidas no PDF fornecido [(Tech Challenge - Fase 2.pdf)](https://github.com/marceloklotz/Breast-Cancer---Tech-Challenge-Fase-2/blob/main/8IADT%20-%20Fase%202%20-%20Tech%20challenge.pdf).
 
 O notebook final do grupo foi incluído em:
-[[https://github.com/marceloklotz/breast-cancer-fiap/blob/main/FIAP_Challenge_Breast_Cancer.ipynb]([https://github.com/marceloklotz/breast-cancer-fiap-segunda-fase/blob/main/FIAP_Fase_2.ipynb](https://github.com/marceloklotz/breast-cancer-fiap-segunda-fase/blob/main/FIAP_Fase_2.ipynb))](https://github.com/marceloklotz/Breast-Cancer---Tech-Challenge-Fase-2/blob/main/FIAP_Fase_2_ANV_v20260311_18h35.ipynb)](https://github.com/marceloklotz/breast-cancer-fiap-segunda-fase/blob/main/FIAP_Fase_2.ipynb)
+https://github.com/marceloklotz/breast-cancer-fiap-segunda-fase/blob/main/FIAP_Fase_2.ipynb
 
 ## 📝 Descrição do Desafio
 
