@@ -60,4 +60,4 @@ https://github.com/marceloklotz/breast-cancer-fiap-segunda-fase/blob/main/Relat%
 
 O vídeo explicativo sobre a metologia, resultados e notebook em execução foi disponbilizado a partir do seguinte link:
 
-- [https://www.youtube.com/watch?v=8BE0_HIzjS8](https://www.youtube.com/watch?v=8BE0_HIzjS8)
+[![Tech Challenge – Fase 2 | Otimização de Modelos de Diagnóstico com Algoritmos Genéticos e LLMs](https://img.youtube.com/vi/SBfUBlP-d4Q/0.jpg)](https://www.youtube.com/watch?v=SBfUBlP-d4Q)
